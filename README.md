@@ -1,4 +1,4 @@
-## Bike Sharing Demand Prediction with Random Forest
+## Bike Sharing Demand Prediction
 
 This repository explores predicting hourly bike rental demand using a random forest regression model. It leverages data from the [Kaggle Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand) competition.
 
