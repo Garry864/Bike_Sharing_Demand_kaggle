@@ -13,6 +13,6 @@ This repository explores predicting hourly bike rental demand using a random for
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)Garry864/bike-sharing-demand-prediction.git
+   git clone https://github.com/](https://github.com/)Garry864/bike-sharing-demand-prediction.git
 
 
